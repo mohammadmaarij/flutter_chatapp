@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "118334691367",
+    "project_id": "flutterchatapp2-7b936",
+    "storage_bucket": "flutterchatapp2-7b936.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118334691367:android:de531f271be5c0746f5602",
+        "android_client_info": {
+          "package_name": "com.example.flutterchatapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfr7l6DTsIQSqt6sq0AuizqAvmmmF44rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118334691367:android:5b9818ead962e1de6f5602",
+        "android_client_info": {
+          "package_name": "com.example.notesapp2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfr7l6DTsIQSqt6sq0AuizqAvmmmF44rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118334691367:android:50936226ea31b9cd6f5602",
+        "android_client_info": {
+          "package_name": "com.example.otp_verification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfr7l6DTsIQSqt6sq0AuizqAvmmmF44rI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
